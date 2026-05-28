@@ -140,7 +140,7 @@ for network communication.
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/sandipogu/Client-Server-Chat-Application.git
+git clone https://github.com/sandipoguvarshitha/Client-Server-Chat-Application.git
 
 cd Client-Server-Chat-Application
 ```
